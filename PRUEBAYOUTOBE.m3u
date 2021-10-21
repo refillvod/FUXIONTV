@@ -1,6 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Choppertown.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/750px-LEGO_logo.svg.png" group-title="group-title="A SERIES NETFLIX"",Ivan Donalson
-https://youtu.be/DriCCFRQlj8
-
-EXTINF:-1 tvg-id="7TVAndaluciaBahia.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://assets.turbologo.com/blog/es/2019/11/19132900/gaming-logo-cover-958x575.jpg" group-title="A PELICULAS NETFLIX",7 TV Andalucía (Bahía) (576p)
+EXTINF:-1 tvg-id="7TVAndaluciaBahia.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://assets.turbologo.com/blog/es/2019/11/19132900/gaming-logo-cover-958x575.jpg" group-title="A SERIES NETFLIX",7 TV Andalucía (Bahía) (576p)
+https://dcunilive265-lh.akamaihd.net/i/dclive_1@409360/master.m3u8
+EXTINF:-1 tvg-id="7TVAndaluciaBahia.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/750px-LEGO_logo.svg.png" group-title="A PELICULAS NETFLIX",7 TV Andalucía (Bahía) (576p)
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835790/master.m3u8
